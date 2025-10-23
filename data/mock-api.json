@@ -1,0 +1,10 @@
+{
+    "monitors": [
+        { "username": "Luiz.silva", "password": "2006" },
+        { "username": "Jota", "password": "2024" },
+        { "username": "Manoel", "password": "2025" },
+        { "username": "Andreia", "password": "2026" }
+    ],
+    "schedules": [],
+    "absences": []
+}
